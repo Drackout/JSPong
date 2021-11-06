@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+
+#campo{
+	background-color: rgba(0,0,0,1.00);	
+	width: 1200px;
+	height: 600px;
+	position: relative;
+	overflow: hidden;
+}
+
+#vencedor{
+	color: black;
+	position: relative;
+	overflow: hidden;	
+}
+
+#bola{
+	background-color:rgba(255,255,255,1.00);
+	position:absolute;
+	width:20px;
+	height:20px;
+	border-radius: 30px;
+	left: 200px;
+	top: 100px;
+	border: solid;
+}
+
+
+.raquete{
+	background:#FF0EBA;
+	position:absolute;
+	width:15px;
+	height: 100px;		
+}
+
+#raquete1{
+	left: 100px;	
+	top:70px;
+	border-radius:30px;
+	border: solid;
+}
+
+#raquete2{
+	left: 1100px;
+	top:70px;
+	border-radius:30px;	
+	border: solid;
+}
+
+#raquete3{
+	left: 200px;	
+	top:70px;
+	border-radius:30px;
+	border: solid;
+}
+
+#raquete4{
+	left: 1000px;
+	top:70px;
+	border-radius:30px;	
+	border: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
